@@ -1,9 +1,5 @@
 <h1 align="center">Hello, World! 🌍 I'm Moamen Yasser Musleh</h1>
-<h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie</h3>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f8630880-2bec-44b9-984d-10c602d623e3" alt="Cybersecurity" width="50%">
-</p>
+<h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie </h3>
 
 ---
 
@@ -31,34 +27,65 @@ Feel free to reach out if you want to discuss cybersecurity, collaborate on a pr
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ymuu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://ymuu.medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-    <a href="https://x.com/mumen_y_musleh"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+   <a href="https://ymuu.medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+   <a href="https://x.com/mumen_y_musleh"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+Here are some of the technologies and tools I work with:
 
-### Tools & Technologies
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%232171E6.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%23167E9A.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- 🕵️‍♂️ Advanced penetration testing methodologies.
-- 🏢 Active Directory exploitation and defense strategies.
-- 📈 Techniques for privilege escalation in various environments.
-- 🌐 Advanced web hacking tactics and countermeasures.
+- 🔒 Advanced Penetration Testing Techniques
+- 🌐 Web Application Security
+- 📱 Mobile Application Security
+- 🛡️ Privilege Escalation and Exploitation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Demystifying SQL Injection: A Beginner's Guide](https://ymuu.medium.com/demystifying-sql-injection-a-beginners-guide-1234567890)
+- [Top 5 Tools Every Pentester Should Know](https://ymuu.medium.com/top-5-tools-every-pentester-should-know-0987654321)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [mumen.y.musleh@gmail.com](mailto:mumen.y.musleh@gmail.com)
+- 💬 Discord: [ymuu](https://discordapp.com/users/ymuu)
+
+---
+
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitor Count">
+</p>
+
+---
+
+<p align="center">
+    <i>“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”</i>
+</p>
