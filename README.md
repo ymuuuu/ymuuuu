@@ -3,6 +3,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E0cXkzOGhiZThydTFpNW81a21uenl2aXRhb2FmNDZnamZhNGxlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztpw9DofPQ5vkaI/giphy.gif" alt="Cybersecurity" width="50%">
 </p>
 <h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie </h3>
+<p align="center">
+    <i>“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”</i>
+</p>
 
 ---
 
@@ -13,12 +16,6 @@ I'm a passionate cybersecurity enthusiast with a knack for uncovering vulnerabil
 - 🔍 Exploring the depths of web security and mobile app security.
 - 💡 Always eager to learn and apply new techniques in the field of cybersecurity.
 - 🚀 Aspiring to make the digital world a safer place.
-
----
-
-<p align="center">
-    <i>“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”</i>
-</p>
 
 ---
 
