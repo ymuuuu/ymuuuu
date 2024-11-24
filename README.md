@@ -1,4 +1,7 @@
 <h1 align="center">Hello, World! 🌍 I'm Moamen Yasser Musleh</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkZTE1NTg2MGRhZDE0NzJjNWM2NTE0ZDYzMGNkNjg3ZTc2ZGVjMyZjdD1n/tJWA7skCKLvmUEjMnF/giphy.gif" alt="Cybersecurity" width="50%">
+</p>
 <h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie </h3>
 
 ---
@@ -11,6 +14,11 @@ I'm a passionate cybersecurity enthusiast with a knack for uncovering vulnerabil
 - 💡 Always eager to learn and apply new techniques in the field of cybersecurity.
 - 🚀 Aspiring to make the digital world a safer place.
 
+---
+
+<p align="center">
+    <i>“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”</i>
+</p>
 ---
 
 ## 📅 Hobbies
@@ -50,9 +58,9 @@ Here are some of the technologies and tools I work with:
 ## 📚 Currently Learning
 
 - 🔒 Advanced Penetration Testing Techniques
-- 🌐 Web Application Security
 - 📱 Mobile Application Security
-- 🛡️ Privilege Escalation and Exploitation
+- 📱 READING SMALI CODE
+
 
 ---
 
@@ -64,28 +72,10 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Demystifying SQL Injection: A Beginner's Guide](https://ymuu.medium.com/demystifying-sql-injection-a-beginners-guide-1234567890)
-- [Top 5 Tools Every Pentester Should Know](https://ymuu.medium.com/top-5-tools-every-pentester-should-know-0987654321)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 📫 Get in Touch
 
 - 📧 Email: [mumen.y.musleh@gmail.com](mailto:mumen.y.musleh@gmail.com)
 - 💬 Discord: [ymuu](https://discordapp.com/users/ymuu)
 
----
 
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitor Count">
-</p>
-
----
-
-<p align="center">
-    <i>“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”</i>
-</p>
