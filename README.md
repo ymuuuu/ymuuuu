@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkZTE1NTg2MGRhZDE0NzJjNWM2NTE0ZDYzMGNkNjg3ZTc2ZGVjMyZjdD1n/tJWA7skCKLvmUEjMnF/giphy.gif" alt="Cybersecurity" width="50%">
+  <img src="https://github.com/user-attachments/assets/f8630880-2bec-44b9-984d-10c602d623e3" alt="Cybersecurity" width="50%">
 </p>
 
 ---
@@ -25,27 +25,6 @@ I'm a passionate cybersecurity enthusiast with a knack for uncovering vulnerabil
 
 ---
 
-## 📚 Currently Learning
-
-- 🕵️‍♂️ Advanced penetration testing methodologies
-- 🏢 Active Directory exploitation and defense strategies
-- 📈 Techniques for privilege escalation in various environments
-- 🌐 Advanced web hacking tactics and countermeasures
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 Feel free to reach out if you want to discuss cybersecurity, collaborate on a project, or just say hi!
@@ -55,3 +34,31 @@ Feel free to reach out if you want to discuss cybersecurity, collaborate on a pr
     <a href="https://ymuu.medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
     <a href="https://x.com/mumen_y_musleh"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
+
+---
+
+## 🛠️ Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Tools & Technologies
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%232171E6.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23167E9A.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- 🕵️‍♂️ Advanced penetration testing methodologies.
+- 🏢 Active Directory exploitation and defense strategies.
+- 📈 Techniques for privilege escalation in various environments.
+- 🌐 Advanced web hacking tactics and countermeasures.
