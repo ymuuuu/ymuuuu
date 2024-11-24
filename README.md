@@ -75,7 +75,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Get in Touch
 
-- 📧 Email: [mumen.y.musleh@gmail.com](mailto:mumen.y.musleh@gmail.com)
-- 💬 Discord: [ymuu](https://discordapp.com/users/ymuu)
+- 📧 Email: [ClickHere](mailto:mumenyasser101@gmail.com)
+- 💬 Discord: [ClickHere](https://discordapp.com/users/ymuu_)
 
 
