@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! 🌍 I'm Moamen Yasser Musleh</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkZTE1NTg2MGRhZDE0NzJjNWM2NTE0ZDYzMGNkNjg3ZTc2ZGVjMyZjdD1n/tJWA7skCKLvmUEjMnF/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E0cXkzOGhiZThydTFpNW81a21uenl2aXRhb2FmNDZnamZhNGxlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztpw9DofPQ5vkaI/giphy.gif)" alt="Cybersecurity" width="50%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkZTE1NTg2MGRhZDE0NzJjNWM2NTE0ZDYzMGNkNjg3ZTc2ZGVjMyZjdD1n/tJWA7skCKLvmUEjMnF/giphy.gif" alt="Cybersecurity" width="50%">
 </p>
 <h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie </h3>
 
