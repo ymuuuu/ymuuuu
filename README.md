@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate cybersecurity enthusiast with a knack for uncovering vulnerabilities and developing secure code. Currently honing my skills in application penetration testing and ethical hacking.
+I'm a passionate cybersecurity enthusiast with a knack for uncovering vulnerabilities and reversing APKs. Currently honing my skills in application penetration testing and ethical hacking.
 
 - 🔍 Exploring the depths of web security and mobile app security.
 - 💡 Always eager to learn and apply new techniques in the field of cybersecurity.
@@ -25,11 +25,23 @@ I'm a passionate cybersecurity enthusiast with a knack for uncovering vulnerabil
 
 ## 📅 Hobbies
 
-- 🛡️ Participating in CTF competitions and watching hacking livestreams.
+- 🛡️ Participating in CTF competitions.
 - 🧩 Solving complex puzzles and building innovative scripts.
 - 📚 Diving deep into cybersecurity research and writing about my findings.
 
 ---
+
+
+
+## 📚 Currently Learning
+
+- 🔒 Advanced Penetration Testing Techniques
+- 📱 Mobile Application Security
+- 📱 READING SMALI CODE
+
+
+---
+
 
 ## 🌐 Connect with Me
 
@@ -41,32 +53,8 @@ Feel free to reach out if you want to discuss cybersecurity, collaborate on a pr
    <a href="https://x.com/mumen_y_musleh"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
           
----
-
-## 🛠️ Tech Stack
-
-Here are some of the technologies and tools I work with:
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-    <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-</p>
 
 ---
-
-## 📚 Currently Learning
-
-- 🔒 Advanced Penetration Testing Techniques
-- 📱 Mobile Application Security
-- 📱 READING SMALI CODE
-
-
-
----
-
 
 ## 📫 Get in Touch
 
