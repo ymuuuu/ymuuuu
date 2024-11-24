@@ -2,8 +2,9 @@
 
 
 <h1 align="center">Hello, World! 🌍 I'm Mu'men Yasser Musleh</h1>
-<img src="https://github.com/ymuuuu/whoami/blob/49b0356c792d329efac917ed547600dd084be67f/background-replacer-result.png" alt="" width="50%" align="center"/>
-
+<p align="center">
+<img src="https://github.com/ymuuuu/whoami/blob/49b0356c792d329efac917ed547600dd084be67f/background-replacer-result.png" alt="" width="50%"/>
+</p>
 <h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie </h3>
 
 
