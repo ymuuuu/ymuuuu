@@ -47,7 +47,7 @@ Feel free to reach out if you want to discuss cybersecurity, collaborate on a pr
 <p align="center">
     <a href="https://www.linkedin.com/in/ymuu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="https://ymuu.medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-   <a href="https://x.com/mumen_y_musleh"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+   <a href="https://x.com/ymuuu_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
           
 
