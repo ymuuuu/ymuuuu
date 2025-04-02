@@ -1,64 +1,33 @@
-<h1 align="center">echo "whoami"; </h1>
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E0cXkzOGhiZThydTFpNW81a21uenl2aXRhb2FmNDZnamZhNGxlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztpw9DofPQ5vkaI/giphy.gif" alt="Cybersecurity" width="50%">
-</p>
-<h3 align="center">Cybersecurity Enthusiast | Junior Pentester | Python Noobie </h3>
-<p align="center">
-    <i>“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”</i>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate cybersecurity enthusiast with a knack for uncovering vulnerabilities and reversing APKs. Currently honing my skills in application penetration testing and ethical hacking.
-
-- 🔍 Exploring the depths of web security and mobile app security.
-- 💡 Always eager to learn and apply new techniques in the field of cybersecurity.
-- 🚀 Aspiring to make the digital world a safer place.
-
----
+<a href="https://noob-ymuu.site/">
+  <img src="https://github.com/ymuuuu/ymuuuu/blob/ed7031f31775e8b69577f2f3df0892e5914a1e1a/video.gif" width=250 />
+</a></p>
 
 
-## 📅 Hobbies
-
-- 🛡️ Participating in CTF competitions.
-- 🧩 Solving complex puzzles and building innovative scripts.
-- 📚 Diving deep into cybersecurity research and writing about my findings.
-
----
-
-
-
-## 📚 Currently Learning
-
-- 🔒 Advanced Penetration Testing Techniques
-- 📱 Mobile Application Security
-- 📱 READING SMALI CODE
-
-
----
-
-
-## 🌐 Connect with Me
-
-Feel free to reach out if you want to discuss cybersecurity, collaborate on a project, or just say hi!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ymuu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="https://ymuu.medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-   <a href="https://x.com/ymuuu_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=3000&pause=1000&color=F7E647FF&center=true&vCenter=true&width=435&lines=ymuuuu%40root%3A~%2Fpwn3d%2F;%24+whoami+%3D+n00b+scr1pt+k1d;%24+skills+%3D+%5Btry_harder%5D;%24+motivation+%3D+OVERFLOW" alt="Terminal Typing" />
 </p>
-          
 
----
+<div align="center">
+  <h3 align="center">How to be BROO H1K3R</h3>
+  
+```mermaid
+graph LR
+    A[("Target")] --> B[sqlmap --level=3 --risk=5]
+    B --> C[burp_suite --auto-scan]
+    C --> D[sleep]
+    D --> E[("Pwn3d!")]
+    style A fill:#F7E647,stroke:#000
+    style E fill:#F7E647,stroke:#000
+    linkStyle 0 stroke:#F7E647,stroke-width:2px
+    linkStyle 1 stroke:#F7E647,stroke-width:2px
+    linkStyle 2 stroke:#F7E647,stroke-width:2px
+```
+</div>
 
-## 📫 Get in Touch
 
-- 📧 Email: [ClickHere](mailto:mumenyasser101@gmail.com)
-- 💬 Discord: [ClickHere](https://discordapp.com/users/ymuu_)
-
----
-[![](https://visitcount.itsvg.in/api?id=ymuuuu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<p align="center"> 
+  <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
+  <img src="https://www.hackthebox.com/badge/image/1849405" alt="HackTheBox"> 
+</p>
