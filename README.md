@@ -1,13 +1,8 @@
 <p align="center">
 <a href="https://noob-ymuu.site/">
-  <img src="https://github.com/ymuuuu/ymuuuu/blob/ed7031f31775e8b69577f2f3df0892e5914a1e1a/video.gif" width=250 />
+  <img src="https://github.com/user-attachments/assets/3e1bbebe-5eb3-4d18-a442-c35e52fc9e34"/>
 </a></p>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=3000&pause=1000&color=F7E647FF&center=true&vCenter=true&width=435&lines=ymuuuu%40root%3A~%2Fpwn3d%2F;%24+whoami+%3D+n00b+scr1pt+k1d;%24+skills+%3D+%5Btry_harder%5D;%24+motivation+%3D+OVERFLOW" alt="Terminal Typing" />
-</p>
 
 <div align="center">
   <h3 align="center">How to be BROO H1K3R</h3>
