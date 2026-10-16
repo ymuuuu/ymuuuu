@@ -1,28 +1,19 @@
-<p align="center">
-<a href="https://noob-ymuu.site/">
-  <img src="https://github.com/user-attachments/assets/3e1bbebe-5eb3-4d18-a442-c35e52fc9e34"/>
-</a></p>
-
-
 <div align="center">
-  <h3 align="center">How to be BROO H1K3R</h3>
-  
-```mermaid
-graph LR
-    A[("Target")] --> B[sqlmap --level=3 --risk=5]
-    B --> C[burp_suite --auto-scan]
-    C --> D[sleep]
-    D --> E[("Pwn3d!")]
-    style A fill:#F7E647,stroke:#000
-    style E fill:#F7E647,stroke:#000
-    linkStyle 0 stroke:#F7E647,stroke-width:2px
-    linkStyle 1 stroke:#F7E647,stroke-width:2px
-    linkStyle 2 stroke:#F7E647,stroke-width:2px
-```
+  <img src="./terminal-card.svg" width="560" alt="ymuuuu@github — top repos">
 </div>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ymuuuu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7E647&icon_color=F7E647&text_color=c9d1d9" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymuuuu&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7E647&text_color=c9d1d9" alt="langs">
+</div>
 
-<p align="center"> 
-  <!-- HackTheBox Dynamic Badge (replace YOUR_ID) -->
-  <img src="https://www.hackthebox.com/badge/image/1849405" alt="HackTheBox"> 
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymuuuu/ymuuuu/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ymuuuu/ymuuuu/output/github-contribution-grid-snake.svg" alt="snake eating my contributions">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://www.hackthebox.com/badge/image/1849405" alt="HackTheBox">
+</div>
