@@ -17,4 +17,5 @@ jobs:
         with:
           feed_list: "https://ymuu.me/rss.xml"
           max_post_count: 3
-          template: "- 📝 [$title]($url)\n"
+          template: "- 📝 [$title]($url)$newline"
+          tag_post_pre_newline: true
