@@ -9,7 +9,12 @@
 
 ### 📝 latest from [n00b bl0g](https://ymuu.me)
 
-<!-- BLOG-POST-LIST:START -->- 📝 [DirtySepolicy: How Android&#39;s App Zygote Became a Root-Detection Oracle](https://ymuu.me/posts/dirtysepolicy---how-androids-app-zygote-became-a-root-detection-oracle/)- 📝 [Bypassing MAUI Certificate SSL Pinning on Android](https://ymuu.me/posts/bypassing-maui-certificate-ssl-pinning-on-android/)- 📝 [From SuperSU to KernelSU: How Android Rooting Grew Up](https://ymuu.me/posts/from-supersu-to-kernelsu-how-android-rooting-grew-up/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 📝 [DirtySepolicy: How Android&#39;s App Zygote Became a Root-Detection Oracle](https://ymuu.me/posts/dirtysepolicy---how-androids-app-zygote-became-a-root-detection-oracle/)
+- 📝 [Bypassing MAUI Certificate SSL Pinning on Android](https://ymuu.me/posts/bypassing-maui-certificate-ssl-pinning-on-android/)
+- 📝 [From SuperSU to KernelSU: How Android Rooting Grew Up](https://ymuu.me/posts/from-supersu-to-kernelsu-how-android-rooting-grew-up/)
+
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <picture>
