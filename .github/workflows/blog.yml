@@ -1,0 +1,20 @@
+name: latest blog posts
+
+on:
+  schedule:
+    - cron: "41 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://ymuu.me/rss.xml"
+          max_post_count: 3
+          item_template: "- 📝 [$title]($url)"
