@@ -24,16 +24,19 @@ jobs:
       - name: Build card
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: python3 .github/card/build_card.py .github/card/card.json terminal-card.svg
+        run: |
+          python3 .github/card/build_card.py .github/card/card.json terminal-card.svg
+          python3 .github/card/build_stats.py .github/card/card.json stats.svg langs.svg
 
       - name: Commit if changed
         run: |
-          if git diff --quiet -- terminal-card.svg; then
+          git add -N stats.svg langs.svg
+          if git diff --quiet -- terminal-card.svg stats.svg langs.svg; then
             echo "card unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add terminal-card.svg
-          git commit -m "card: refresh top repos"
+          git add terminal-card.svg stats.svg langs.svg
+          git commit -m "card: refresh profile cards"
           git push
