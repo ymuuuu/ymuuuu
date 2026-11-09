@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ymuuuu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F7E647&icon_color=F7E647&text_color=c9d1d9" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymuuuu&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7E647&text_color=c9d1d9" alt="langs">
+  <img height="165" src="./stats.svg" alt="stats">
+  <img height="165" src="./langs.svg" alt="langs">
 </div>
 
 ### 📝 latest from [n00b bl0g](https://ymuu.me)
