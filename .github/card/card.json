@@ -1,0 +1,15 @@
+{
+  "user": "ymuuuu",
+  "count": 5,
+  "exclude": ["ymuuuu"],
+  "descriptions": {
+    "NoEmulator": "hide emulator artifacts via susfs rules",
+    "proxyswitcher-ng": "iOS proxy toggle from Settings",
+    "KernelSU-Next-AVD": "root an AVD with KernelSU Next",
+    "pairipfix-zygisk": "pairip license-check bypass",
+    "susfs4ksu-lkm-x64": "susfs as an x86_64 KSU kernel module",
+    "renefdump": "memory dumper for renef",
+    "frida-maui-unpin": "generic .NET MAUI pinning bypass",
+    "adb-hide-susfs": "hide ADB runtime state from apps"
+  }
+}
